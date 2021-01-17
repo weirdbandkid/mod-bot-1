@@ -1,7 +1,7 @@
 /******************************************************
- * Discord Bot Maker Bot
- * Version 1.6.10
- * Robert Borghese
+ * Mod Bot
+ * Version 3.1.5
+ * Hunter Fleming
  ******************************************************/
 
 const DBM = {};
